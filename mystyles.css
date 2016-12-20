@@ -56,6 +56,16 @@ nav{
     overflow-x :hidden ;
 }
 
+.mojiretsu_box{
+    display : inline-block ;
+    width : 60%;
+}
+
+.mojiretsu_photo_box{
+    display : inline-block ;
+    width : 20%;
+}
+
 /*ここまで配置の設定*/
 
 body{
